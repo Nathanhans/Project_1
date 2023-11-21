@@ -26,7 +26,7 @@ Understanding the Repo
 
 All visualization (and a couple we decided not to use) are contained within the notebooks in "Data"
 
-Data Folder: contains the final 3 ipynm folders used to drive different parts of the analysis
+Data Folder: contains the final 3 ipynb folders used to drive different parts of the analysis
 
 census_dataframe.ipynb: all years at the state and congressional district grain.
 census_dataframe_detail_singleyear.ipynb: 2021 only at the state and congressional district grain, used in regression analysis
